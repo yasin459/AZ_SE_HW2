@@ -8,5 +8,9 @@ class Rectangle {
         h = height;
         w = width;
     }
+    
+    public int computeArea() {
+        return 0;
+    }
 
 }
