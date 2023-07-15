@@ -1,6 +1,6 @@
 # AZ_SE_HW2
 ### Yasin Moosavi 98110351
-### Matin Moradi 
+### Matin Moradi 98104488
 میخواهیم  TDD پیش برویم پس اول  یک تست میسازیم که فیل میشود زیرا کلاس  reactangle را نداریم:
 
 ![image](https://github.com/yasin459/AZ_SE_HW2/assets/60640286/aee11d82-2b04-4887-b3ad-2ae00a68ce23)
